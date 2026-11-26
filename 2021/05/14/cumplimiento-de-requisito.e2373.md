@@ -8,6 +8,7 @@ cc: "kuchasky@gmail.com, <harari.redacted@yahoo.com.ar>"
 asunto: "Re: CUMPLIMIENTO DE REQUISITO"
 adjuntos: "denuncia.pdf"
 hilo: "e2373"
+responde_a: "e2764"
 origen_email: "fuentes/emails/justiciaparamargarita.ar/2021-05/cumplimiento-de-requisito.e2373.eml"
 sha256: "1ad0a5440345be5770b22757196a35f1684d0ce9105d02337849a3df5e51efd8"
 ---
@@ -21,28 +22,5 @@ También pide que mencione mis sospechas de que haya recibido dinero del MPF par
 Deben notar tambien que cuando la Fiscalia se niega a reenviar los archivos, el abogado agradece en lugar de reclamar. No le dan los archivos y ni los reclama.
 
 Gracias por avisar.
-
-El 14/5/21 a las 18:09, Cecilia Frascogna escribió:
->   
-> Estimado:
-> 
-> Le informo que para dar curso a la denuncia debe remitir el reverso de su
-> DNI contando con un plazo de 5 días para dar cumplimiento a lo solicitado.
-> Saludos Cordiales.
-> Dra. Cecilia Frascogna
-> Jefa Mesa Entradas
-> Tribunal de Disciplina
-> -----Mensaje original-----
-> De: Nicolas H. Kosciuk [mailto:nhk@justiciaparamargarita.ar]
-> Enviado el: jueves, 13 de mayo de 2021 14:36
-> Para: tribunal.mentradas@cpacf.org.ar
-> CC: Margarita Kuchasky
-> Asunto: Denuncia
-> 
-> Hola, os envío mi denuncia, espero no haya inconvenientes con el PDF siendo
-> que el original que otorgan no sirve para redactar a mano y tratar de
-> digitalizarlo luego.
-> 
-> Saludos.
 
 - adjunto `denuncia.pdf`: `causas/cpacf/2021/05/14/denuncia-tribunal-disciplina-harari.pdf`
